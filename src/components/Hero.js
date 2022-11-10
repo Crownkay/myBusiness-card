@@ -9,7 +9,7 @@ export default function Hero() {
       </div>
       <h3>Adeniran Adekola</h3>
       <p>Frontend Developer</p>
-      <h4>adekola.website</h4>
+      <h4>React JS</h4>
       <div className="main__social">
         <a
           className="main__social__email"
